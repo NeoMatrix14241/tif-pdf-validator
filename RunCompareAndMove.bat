@@ -1,4 +1,5 @@
 @echo off
+title Pang hanap ni kyle ng hindi ma-OCR ni abbyy
 setlocal EnableDelayedExpansion
 cls
 
